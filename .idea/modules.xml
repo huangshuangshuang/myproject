@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/l.d.w.y.iml" filepath="$PROJECT_DIR$/.idea/modules/l.d.w.y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/l.d.w.y_main.iml" filepath="$PROJECT_DIR$/.idea/modules/l.d.w.y_main.iml" group="l.d.w.y" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/l.d.w.y_test.iml" filepath="$PROJECT_DIR$/.idea/modules/l.d.w.y_test.iml" group="l.d.w.y" />
+    </modules>
+  </component>
+</project>
